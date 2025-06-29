@@ -47,6 +47,3 @@ Sou apaixonado por automação, soluções tecnológicas e desenvolvimento de si
 📧 gusstavoffc@gmal.com
 
 ---
-
-![Gustavo's GitHub stats](https://github-readme-stats.vercel.app/api?username=gustavoffc&show_icons=true&theme=dark)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavoffc&layout=compact&theme=dark)
