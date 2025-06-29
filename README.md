@@ -36,6 +36,21 @@
 - 📌 **Gerenciamento de tarefas**:
   ![Trello](https://img.shields.io/badge/-Trello-0052CC?style=flat-square&logo=trello&logoColor=white)
 
+## 🧱 Sistemas e Ferramentas
+ ![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
+ ![Insomnia](https://img.shields.io/badge/-Insomnia-4000BF?style=flat-square&logo=insomnia&logoColor=white)
+ ![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+
+ ## 🧪 Outras tecnologias que já estudei/utilizei
+  ![Python](https://img.shields.io/badge/-Pandas-3776AB?style=flat-square&logo=python&logoColor=white)  
+  📸 **Sistemas de Visão** com uso de  
+  ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+
+---
+
+---
+
+
 ---
 
 ## 💡 Sobre mim
