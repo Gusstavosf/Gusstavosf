@@ -40,7 +40,9 @@
 
 ## 💡 Sobre mim
 
-Sou apaixonado por automação, soluções tecnológicas e desenvolvimento de sistemas eficientes. Gosto de trabalhar em equipe, explorar novas ferramentas e enfrentar desafios com criatividade e proatividade.
+Sou apaixonado por automação industrial, soluções tecnológicas e desenvolvimento de sistemas eficientes. Gosto de trabalhar em equipe, explorar novas ferramentas e enfrentar desafios com criatividade e proatividade.  
+
+💬 **Curiosidade**: além do universo da tecnologia, também curto manter o corpo em movimento! Pratico **corridas de rua**, **musculação**, **artes marciais** e sou aficionado pelo mundo **automotivo**. Acredito que disciplina e performance valem tanto para o código quanto para a vida
 
 ---
 
