@@ -1,7 +1,7 @@
 # 👨‍💻 Olá, eu sou o Gustavo!
 
 🎓 Formado em **Engenharia Mecatrônica** pelo [IFSC](https://www.ifsc.edu.br)  
-🧩 Especialização no curso **DevinHouse** pelo [SENAI/SC](https://www.sc.senai.br) — 900h de formação intensiva com foco em **desenvolvimento mobile** 
+🧩 Especialização no curso **DevinHouse** pelo [SENAI/SC](https://www.sc.senai.br) 900h de formação intensiva com foco em **desenvolvimento mobile** 
 🤖 Entusiasta de **automação industrial** e **programação**
 
 ---
