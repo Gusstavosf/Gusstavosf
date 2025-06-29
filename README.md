@@ -1,10 +1,12 @@
 # 👨‍💻 Olá, eu sou o Gustavo!
 
- 🎓 Formado em **Engenharia Mecatrônica** pelo [IFSC](https://www.ifsc.edu.br)  
- 🧩 Especialização no curso **DevinHouse** pelo [SENAI/SC](https://www.sc.senai.br) 
- 🤖 Entusiasta de **automação industrial** e **programação**
+🎓 Formado em **Engenharia Mecatrônica** pelo [IFSC](https://www.ifsc.edu.br)  
 
----
+🧩 Especialização no curso **DevinHouse** pelo [SENAI/SC](https://www.sc.senai.br)  
+
+🤖 Entusiasta de **automação industrial** e **programação**
+
+----
 
 ## 🚀 Tecnologias e Ferramentas
  
