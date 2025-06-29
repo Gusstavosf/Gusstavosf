@@ -24,8 +24,8 @@ Sou apaixonado por automação, soluções tecnológicas e desenvolvimento de si
 
 ## 📫 Como me encontrar
 
-🔗 [LinkedIn](https://www.linkedin.com/in/seu-usuario)  
-📧 gustavo@email.com  
+🔗 [LinkedIn][(https://www.linkedin.com/in/seu-usuario](https://www.linkedin.com/in/gustavo-fernandes-733bb8161/))  
+📧 gusstavoffc@gmal.com
 
 ---
 
