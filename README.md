@@ -1,43 +1,33 @@
-<h1 align="center">Olá! Eu sou o Gustavo 👋</h1>
+# 👨‍💻 Olá, eu sou o Gustavo!
 
-<p align="center">
-Desenvolvedor apaixonado por tecnologia, sempre aprendendo algo novo 💡  
-</p>
-
----
-
-### 🚀 Sobre mim
-
-- 💻 Atualmente focado em aprender **React**, **Node.js** e **TypeScript**
-- 📚 Estudante de Desenvolvimento Web
-- 🎯 Buscando minha primeira oportunidade como Dev Júnior
-- ⚡ Fun fact: Café é meu combustível oficial ☕️
+🎓 Formado em **Engenharia Mecatrônica** pelo [IFSC](https://www.ifsc.edu.br)  
+🤖 Entusiasta de **robótica industrial** e **tecnologias inovadoras**
 
 ---
 
-### 🛠️ Tecnologias que uso
+## 🚀 Tecnologias e Ferramentas
 
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js)
-
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=radical" alt="Gustavo's GitHub stats" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=radical" alt="Top Langs" />
-</p>
+- 💻 **Frontend**: React.js, TypeScript, JavaScript, Bootstrap  
+- 🛠️ **Backend**: Node.js, Express, API REST  
+- 🗄️ **Banco de dados**: PostgreSQL  
+- 📱 **Desenvolvimento**: Web & Mobile  
+- 🔁 **Versionamento**: GitFlow  
+- 📌 **Gerenciamento de tarefas**: Trello  
 
 ---
 
-### 📫 Fale comigo!
+## 💡 Sobre mim
 
-- [LinkedIn](https://www.linkedin.com/in/seu-usuario/)
-- ✉️ E-mail: seu-email@gmail.com
+Sou apaixonado por automação, soluções tecnológicas e desenvolvimento de sistemas eficientes. Gosto de trabalhar em equipe, explorar novas ferramentas e enfrentar desafios com criatividade e proatividade.
 
 ---
+
+## 📫 Como me encontrar
+
+🔗 [LinkedIn](https://www.linkedin.com/in/seu-usuario)  
+📧 gustavo@email.com  
+
+---
+
+![Gustavo's GitHub stats](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=dark)
