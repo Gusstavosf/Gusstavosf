@@ -8,7 +8,7 @@
 
 ----
 
-## 🚀 Tecnologias e Ferramentas para desenvolvimento de softwares
+## 🚀 Tecnologias e Ferramentas
  
 - 💻 **Frontend**:
   ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react)
