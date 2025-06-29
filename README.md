@@ -60,6 +60,6 @@ Sou apaixonado por automação industrial, soluções tecnológicas e desenvolvi
 ## 📫 Como me encontrar
 
 🔗 [LinkedIn](https://www.linkedin.com/in/gustavo-fernandes-733bb8161/)  
-📧 gusstavoffc@gmal.com
+📧 gusstavoffc@gmail.com
 
 ---
