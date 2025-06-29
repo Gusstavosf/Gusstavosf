@@ -4,7 +4,7 @@
 
 🧩 Especialização no curso **DevinHouse** pelo [SENAI/SC](https://www.sc.senai.br)  
 
-🤖 Entusiasta de **automação industrial** e **programação**
+🤖 Entusiasta de **automação industrial** e **desenvolvimento de softwares**
 
 ----
 
