@@ -26,14 +26,14 @@
 - 📊 **Business Intelligence**:
   ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
   
-- 📱 **Desenvolvimento**: Web & Mobile
+- 📱 **Desenvolvimento**:
   ![Web](https://img.shields.io/badge/-Web%20Dev-0D1117?style=flat-square&logo=googlechrome&logoColor=white)
   ![Mobile](https://img.shields.io/badge/-Mobile%20Dev-1C1E26?style=flat-square&logo=android&logoColor=green)
 
 - 🔁 **Versionamento**:
   ![GitFlow](https://img.shields.io/badge/-GitFlow-F05032?style=flat-square&logo=git&logoColor=white)
 
-- 📌 **Gerenciamento de tarefas**: Trello
+- 📌 **Gerenciamento de tarefas**:
   ![Trello](https://img.shields.io/badge/-Trello-0052CC?style=flat-square&logo=trello&logoColor=white)
 
 ---
